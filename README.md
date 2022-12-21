@@ -24,18 +24,12 @@ $ cd contracts
 $ npm install
 ```
 
-### 3. Deploy NFT collection to Polygon Mumbai testnet
+### 3. Deploy Run token & NFT Collection to Polygon Mumbai testnet
 - Setup your env file with both private key and mumbai RPC 
 ```
-$ $ npx hardhat run scripts/deployNFTCollection.js --network mumbai
+$ $ npx hardhat run scripts/deploy.js --network Mumbai
 ```
 
-### 4. Deploy Run token to Polygon Mumbai testnet
-- Setup your env file with both private key and mumbai RPC 
-```
-$ $ npx hardhat run scripts/deployRunToken.js --network mumbai
-```
-
-### 5. Provide the smart contract addresses in blockchain.js file
+### 4. Provide the smart contract addresses in blockchain.js file
 
 Images in the game are taken from https://www.flaticon.com/
