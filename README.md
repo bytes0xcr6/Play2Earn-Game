@@ -1,6 +1,8 @@
 # Play2Earn Runner Game (Blockchain)
 Play to earn blockchain runner game that rewards tokens and NFTs
 
+![Animation](https://user-images.githubusercontent.com/102038261/208918824-e3d4d8cc-3f73-4af9-91df-166bef67f049.gif)
+
 ## Technology Stack & Dependencies
 
 - Solidity (Writing Smart Contract)
